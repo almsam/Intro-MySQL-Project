@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/36067767/how-do-i-upload-a-file-with-the-js-fetch-api#40826943
+https://stackoverflow.com/questions/15839169/how-to-get-the-value-of-a-selected-radio-button#15839451
+https://www.chartjs.org/docs/latest/
