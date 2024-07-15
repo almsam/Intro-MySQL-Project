@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{title}}</title>
+
+    
+    <link rel="stylesheet" type="text/css" href="/css/styles.css">
+</head>
+<body>
+    {{#if loggedIn}}
+        <nav>
+            <ul>
+                <li>
+                    Nat &amp; Sami's Rare Earth Metals
+                </li>
+
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                <li>
+                    <a href="/listprod">Products</a>
+                </li>
+                <li>
+                    <a href="/listorder">Orders</a>
+                </li>
+                {{#if user.isAdmin}}
+                    <li class="nav-right">
+                        <a href="/admin">Admin Panel</a>
+                    </li>
+                {{/if}}
+                <li class="nav-right">
+                    <a href="/customer">{{{user.username}}}</a>
+                </li>
+            </ul>
+        </nav>
+    {{/if}}
+
+    {{#if spacer}}
+        <div style="margin-top: 10vh">&nbsp;</div>
+    {{/if}}
+
+    <main>
+        {{{content}}}
+    </main>
+</body>
+</html>
