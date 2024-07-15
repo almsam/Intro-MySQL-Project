@@ -1,0 +1,81 @@
+body {
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+	font-weight: normal;
+}
+
+nav {
+	width: 100%;
+	position: fixed;
+	top: 0; left: 0;
+	background-color: white;
+	border-bottom: 3px double black;
+	font-size: 1.1em;
+}
+
+nav > ul {
+	padding-left: 10px;
+	list-style: none;
+}
+
+nav > ul > li {
+	display: inline-block;
+	padding-right: 20px;
+}
+
+li.nav-right {
+	float: right;
+	padding-right: 0;
+	padding-left: 10px;
+}
+
+nav > ul:last-child {
+	padding-right: 10px;
+}
+
+main {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 100vh;
+}
+
+.product-search-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+.product-search {
+	text-align: center;
+}
+
+.product-search > input[type="text"] {
+	width: 90%;
+	margin-bottom: 10px;
+}
+
+.product-search > input, .product-search > button {
+	font-size: 1.1em;
+	padding: 5px;
+}
+
+.product-search > button, .product-search > input[type="submit"] {
+	padding: 5px;
+	width: 80px;
+	text-align: center;
+	background-color: white;
+	border-color: black;
+}
+
+.product-search > button:hover, .product-search > input[type="submit"]:hover {
+	padding: 5px;
+	width: 80px;
+	text-align: center;
+	background-color: grey;
+	border-color: black;
+}
