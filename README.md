@@ -11,5 +11,16 @@
 
 <h3 align="center">Nat & Sami's rare mineral store</h3>
 
+<p align="center">
+  <strong>Mission Statement</strong><br>
+  " Our mission is to ensure every Canadian can get a pure sample of any rare earth metal on their doorstep within two days. "
+</p>
+
+<p align="center">
+  <strong>Project Summary</strong><br>
+  During my third year of undergaduate, my partern & I were tasked with making a full application (with front end & back end) to demonstrate our skills with SQL (MySQL in our case). 
+</p>
 
 </div>
+
+
