@@ -18,9 +18,17 @@
 
 <p align="center">
   <strong>Project Summary</strong><br>
-  During my third year of undergaduate, my partern & I were tasked with making a full application (with front end & back end) to demonstrate our skills with SQL (MySQL in our case). 
+  During my third year of undergaduate, my partern & I were tasked with making a full application (with front end & back end) to demonstrate our skills with SQL (MySQL in our case). The result of our hard work has been commited to this repo for archiving & viewing
 </p>
 
 </div>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+The project was built with CSS & JavaScript for the front end, as well as MySQL for the backend, & a Debian VPS rented from Hetzner for hosting
+
+### Built With: [![Pandas][Pandas]][Pandas-url] [![Seaborn][Seaborn]][Seaborn-url] [![Statsmodels-url][Statsmodels]][Statsmodels-url] & [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
+
 
 
