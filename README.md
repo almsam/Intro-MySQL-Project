@@ -69,3 +69,29 @@ The project was built with CSS & JavaScript for the front end, as well as MySQL 
 - Ship orders from `/ship`.
 - Add photos to products as files and directly in the database from `/admin/productAddImage`, accessed from the admin product directory using AJAX.
 
+<!-- SOURCE LIST -->
+## Source List
+- [Express.js 4.x API reference](https://expressjs.com/en/4x/api.html)
+- [mssql library documentation](https://www.npmjs.com/package/mssql)
+- [multer library documentation](https://www.npmjs.com/package/multer)
+- [Chart.js Documentation](https://www.chartjs.org/docs/latest/)
+- ["How do I upload a file with the JS fetch API?" on Stack Overflow](https://stackoverflow.com/questions/36067767/how-do-i-upload-a-file-with-the-js-fetch-api)
+- ["How to get the value of a selected radio button" on Stack Overflow](https://stackoverflow.com/questions/15839169/how-to-get-the-value-of-a-selected-radio-button)
+
+<!-- WALKTHROUGH -->
+## Walkthrough
+1. Start at the login page. If you don’t have an account, click “Register Here”.
+2. Fill out valid information and click “Register” to be redirected to the login page. Log in to reach the main page.
+3. Search from the main page to get to the product directory page, listing matching products.
+4. Click the “Chai” link to see more information on this product.
+5. Add the item to your cart from the product detail page. Tweak the quantity as needed and click “Checkout”.
+6. After verifying your credentials, receive confirmation that your order was received.
+7. Find a list of all your orders by clicking “Orders” in the nav bar.
+8. Click your username in the navbar to go to the profile page.
+9. Log out and log back in as “arnold”.
+10. Click “Admin Panel” in the navbar.
+11. Enter Nat’s order number “6” and fulfill the order.
+12. Click “Add a Product” from the admin panel to fill out the form.
+13. Click “Edit Products” to update, delete, and add photos to existing products in the admin product directory.
+14. When adding a photo to an existing product, choose to add it as a file stored and served statically, or as a blob stored in the database.
+
