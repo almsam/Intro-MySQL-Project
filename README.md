@@ -26,9 +26,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The project was built with CSS & JavaScript for the front end, as well as MySQL for the backend, & a Debian VPS rented from Hetzner for hosting
+The project was built with CSS3 & JavaScript for the front end, as well as MySQL for the backend, & a Debian VPS rented from Hetzner for hosting
 
-### Built With: [![Pandas][Pandas]][Pandas-url] [![Seaborn][Seaborn]][Seaborn-url] [![Statsmodels-url][Statsmodels]][Statsmodels-url] & [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
+### Built With: [![Docker][Docker]][Docker-url] [![JS][JS]][JS-url] [![CSS][CSS]][CSS-url]  & [![MySQL][MySQL]][MySQL-url]
+
+[JS]: https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?logo=javascript&logoColor=FFFFFF
+[JS-url]: https://www.javascript.com
+[CSS]: https://img.shields.io/badge/CSS-%20%231572B6?logo=css3&logoColor=FFFFFF
+[CSS-url]: https://css3.com
+[Docker]: https://img.shields.io/badge/Docker%20-%20%232496ED?logo=docker&logoColor=FFFFFF
+[Docker-url]: https://www.docker.com
+[MySQL]: https://img.shields.io/badge/MySQL%20-%20%23f79838?logo=mysql&logoColor=%23FFFFFF&logoSize=auto
+[MySQL-url]: https://www.mysql.com
 
 
 <!-- FEATURES -->
