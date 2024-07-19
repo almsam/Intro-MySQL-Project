@@ -18,7 +18,7 @@
 
 <p align="center">
   <strong>Project Summary</strong><br>
-  During my third year of undergaduate, my partern & I were tasked with making a full application (with front end & back end) to demonstrate our skills with SQL (MySQL in our case). The result of our hard work has been commited to this repo for archiving & viewing
+  During my third year of undergaduate, my partner & I were tasked with making a full application (with front end & back end) to demonstrate our skills with SQL (MySQL in our case). The result of our hard work has been commited to this repo for archiving & viewing
 </p>
 
 </div>
