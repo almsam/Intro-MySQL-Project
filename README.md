@@ -9,7 +9,7 @@
     <img src="public/img/minerals logo.png" alt="Logo" width="180" height="180">
   </a>
 
-<h3 align="center">Nat & Sami's Rare Mineral Store</h3>
+<h1 align="center">Nat & Sami's Rare Mineral Store</h1>
 
 <p align="center">
   <strong>Mission Statement</strong><br>
